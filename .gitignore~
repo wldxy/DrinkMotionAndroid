@@ -1,4 +1,4 @@
-
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -8,7 +8,7 @@
 /build
 /captures
 .externalNativeBuild
-
+=======
 # Built application files
 *.apk
 *.ap_
@@ -64,3 +64,4 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+>>>>>>> 01a7bf4b886b88cd34577db07430d4c5a6e2e779
